@@ -33,7 +33,7 @@ File: Layout CSS
 
 /* Header
 --------------------------------------------------------------------------------------------------------------- */
-#header{padding:50px 0;}
+#header{padding:20px 0;}
 
 #header #logo *{margin:0; padding:0;}
 #header #logo h1{font-size:24px;}
@@ -52,7 +52,7 @@ File: Layout CSS
 
 /* Page Intro
 --------------------------------------------------------------------------------------------------------------- */
-#pageintro{padding:180px 0;}
+#pageintro{padding:300px 0;}
 
 #pageintro article{display:block; max-width:75%;}
 #pageintro .heading{margin-bottom:20px; font-size:4rem;}
